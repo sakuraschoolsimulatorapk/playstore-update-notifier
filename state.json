@@ -1,0 +1,12 @@
+{
+  "apps": {
+    "jp.garud.ssimulator": {
+      "title": "SAKURA School Simulator",
+      "version": "1.048.15",
+      "updated": 1791858692,
+      "changes": "",
+      "fail_count": 0
+    }
+  },
+  "heartbeat": "2026-10-17"
+}
