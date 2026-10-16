@@ -1,0 +1,5 @@
+# One app per line: a Play Store link or just the package name.
+# Lines starting with # are ignored.
+
+# SAKURA School Simulator
+jp.garud.ssimulator
